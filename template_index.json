@@ -1,0 +1,22 @@
+{
+    "version": 1.0,
+    "background": [],
+    "camera": {},
+    "centerOfRotation": {},
+    "scene": [ ],
+    "lookupTables": {},
+    "animation": {
+        "type": "vtkTimeStepBasedAnimationHandler",
+        "timeSteps": [
+            {
+                "time": 0
+            },
+            {
+                "time": 1
+            },
+            {
+                "time": 2
+            }
+        ]
+    }
+}
